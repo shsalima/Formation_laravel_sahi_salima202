@@ -1,2 +1,2 @@
 git pull
-confli de 
+confli de merge
